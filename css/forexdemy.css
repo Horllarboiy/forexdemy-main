@@ -28,9 +28,29 @@ a:hover,
     background: #f8c414;
 }
 
-.pricing-block-content:hover {
-    border-color: #f8c414;
+.pricing-block-content {
+    background-color: #000000;
+    color: #fff;
+    border: none;
 }
+
+#pricing-block-white {
+    background: #fff;
+    color: #000000;
+}
+
+.price {
+    color: #000000;
+}
+
+#buttonPrice {
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+/* .pricing-block-content:hover {
+    border-color: #f8c414;
+} */
 
 
 /*------------------------------------------------------------------------------------------*/
