@@ -65,6 +65,7 @@ a:hover,
 
 
 
+
 /*------------------------------------------------------------------------------------------*/
 /* 3. Primary and Secondary Colors */
 /*------------------------------------------------------------------------------------------*/
@@ -315,6 +316,21 @@ input[type="submit"]:hover {
     color: #f8c414;
     border-color: #f8c414;
 }
+
+#about {
+    background-color: #000000;
+    color: #fff;
+}
+#aboutHeading {
+    color: #fff;
+}
+#aboutIcon {
+    color: #fff;
+}
+#aboutHeadingText {
+    color: #fff;
+}
+
 
 .banner-2 {
     background: url("../images/banner-images/banner-2.JPG");
